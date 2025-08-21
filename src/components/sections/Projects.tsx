@@ -1,5 +1,3 @@
-"use client"
-
 import type React from "react"
 import { Code, Brain, Shield, ExternalLink } from "lucide-react"
 import { useNavigation } from "../../contexts/NavigationContext"
