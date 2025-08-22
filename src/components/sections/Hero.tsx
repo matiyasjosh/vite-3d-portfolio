@@ -38,10 +38,10 @@ const HeroSection: React.FC = () => {
               <span className="inline-block animate-bounce-slow">Adaptable</span>
             </span>
             <br />
-            <span className="text-white animate-fade-in-up">Developer</span>
+            <span className="text-white animate-fade-in-up">Hi There,</span>
           </h1>
           <p className="text-xl md:text-2xl text-gray-300 mb-8 max-w-3xl mx-auto leading-relaxed animate-fade-in-up animation-delay-300">
-            5th Year Software Engineering Student at AASTU. I don't just code—I solve problems. Give me any challenge,
+             I'm Matiyas Woldemariam, a 5th Year Software Engineering Student at AASTU. I don't just code—I solve problems. Give me any challenge,
             and I'll figure out a way to make it work.
           </p>
         </div>

@@ -17,7 +17,7 @@ const ContactSection: React.FC = () => {
 
         <div className="grid md:grid-cols-3 gap-8 mb-12">
           <a
-            href="mailto:your.email@example.com"
+            href="mailto:matiyasuy@gmail.com"
             className="bg-gradient-to-br from-slate-700 to-slate-600 rounded-2xl p-6 shadow-xl border border-slate-500 hover:border-blue-500/50 transition-all duration-500 hover:transform hover:scale-105 hover:rotate-2 group animate-slide-in-up hover:shadow-2xl"
           >
             <Mail
@@ -25,11 +25,11 @@ const ContactSection: React.FC = () => {
               size={32}
             />
             <h3 className="text-lg font-semibold text-white mb-2 group-hover:text-blue-300 transition-colors">Email</h3>
-            <p className="text-gray-400 group-hover:text-gray-200 transition-colors">your.email@example.com</p>
+            <p className="text-gray-400 group-hover:text-gray-200 transition-colors">matiyasuy@gmail.com</p>
           </a>
 
           <a
-            href="https://linkedin.com/in/yourprofile"
+            href="https://www.linkedin.com/in/matiyas-woldemariam-b22ba4284/"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-gradient-to-br from-slate-700 to-slate-600 rounded-2xl p-6 shadow-xl border border-slate-500 hover:border-blue-500/50 transition-all duration-500 hover:transform hover:scale-105 hover:rotate-2 group animate-slide-in-up animation-delay-200 hover:shadow-2xl"
@@ -45,7 +45,7 @@ const ContactSection: React.FC = () => {
           </a>
 
           <a
-            href="https://github.com/yourusername"
+            href="https://github.com/matiyasjosh"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-gradient-to-br from-slate-700 to-slate-600 rounded-2xl p-6 shadow-xl border border-slate-500 hover:border-blue-500/50 transition-all duration-500 hover:transform hover:scale-105 hover:rotate-2 group animate-slide-in-up animation-delay-400 hover:shadow-2xl"
