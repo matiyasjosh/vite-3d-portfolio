@@ -6,7 +6,7 @@ import { TrophySpin } from "react-loading-indicators"
 
 const ProjectsSection: React.FC = () => {
   const { scrollToSection } = useNavigation()
-  const gist_id = import.meta.env.VITE_GIST_ID
+  const gist_id = "6a70581f8fac00412980db5ce7910b28"
   const { projects, loading, error } = useGistProjects(gist_id)
 
   return (
