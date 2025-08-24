@@ -34,11 +34,8 @@ const HeroSection: React.FC = () => {
       <div className="max-w-4xl mx-auto text-center">
         <div className="mb-8">
           <h1 className="text-5xl md:text-7xl font-bold mb-6">
-            <span className="bg-gradient-to-r from-blue-400 via-teal-400 to-blue-600 bg-clip-text text-transparent">
-              <span className="inline-block animate-bounce-slow">Adaptable</span>
-            </span>
             <br />
-            <span className="text-white animate-fade-in-up">Hi There,</span>
+            <span className="text-white animate-fade-in-up inline-block animate-bounce-slow">Hi There,</span>
           </h1>
           <p className="text-xl md:text-2xl text-gray-300 mb-8 max-w-3xl mx-auto leading-relaxed animate-fade-in-up animation-delay-300">
              I'm Matiyas Woldemariam, a 5th Year Software Engineering Student at AASTU. I don't just code—I solve problems. Give me any challenge,
